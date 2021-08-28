@@ -1,6 +1,5 @@
 import click
 from pathlib import Path
-import path
 import urllib.request
 import shutil
 import os.path as path
